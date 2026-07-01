@@ -1,18 +1,104 @@
-# 💫 About Me:
-🔭 I’m currently working on:  <br>Data analysis projects using Python (Pandas, NumPy) and beginner ML models.<br><br>👯 I’m looking to collaborate on:  <br>Beginner-friendly Data Science or Machine Learning projects.<br><br>🤝 I’m looking for help with:  <br>Model evaluation, feature engineering, and real-world datasets.<br><br>🌱 I’m currently learning:  <br>Data Science, Machine Learning, Python, statistics, and basic ML algorithms.<br><br>💬 Ask me about:  <br>Python basics, data analysis, or my learning journey in DS & ML.<br><br>⚡ Fun fact:  <br>I learn faster by building projects than watching tutorials.<br>
+<h1 align="center">Hi, I'm Ganesh Sarode 👋</h1>
+<h3 align="center">Full-Stack Developer & ML/AI Builder | EXTC + Data Science @ VJTI Mumbai</h3>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ganeshx0456) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ganesh_sarode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ganesh-sarode-1bb40136a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2l6UBoUlG) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Forward_Past_8051/s/lwV0AB78Hz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ganeshX077) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@ganeshsarode2028?si=MclwVCTW_IqPAex7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ganeshsarode3015@gamil.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GaneshSarode&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GaneshSarode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshSarode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+full-stack+%2B+AI+products;Next.js+%7C+TypeScript+%7C+Supabase+%7C+Firebase;Shipping+real+projects%2C+not+just+tutorials" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GaneshSarode&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+- 🎓 3rd-year **B.Tech, Electronics & Telecommunication Engineering** (Data Science minor) @ **VJTI Mumbai** — Class of 2028
+- 🛠️ I build **full-stack web apps and ML/AI-powered products**, end to end — frontend, backend, auth, databases, and deployment
+- 🤖 I use AI coding tools to move fast, and I go deep on every codebase I ship so I can defend every design decision in interviews
+- 🌱 Currently sharpening **DSA (LeetCode)** and going deeper into **system design fundamentals**
+- 💬 Ask me about **Next.js, Supabase/Firebase, multi-agent AI systems, or MHT-CET / college admissions data**
+- ⚡ Fun fact: I learn fastest by shipping a live product, not by watching tutorials
+
+---
+
+### 🔨 Featured Projects
+
+**[CET Mentor Hub](https://cet-mentor-hub.vercel.app)** — Full-stack MHT-CET guidance platform with a CAP Round college predictor covering all 13 MHT-CET categories, a Playwright-scraped PYQ bank, and 3 integrated Gemini-powered AI agents (Doubt Solver, College Counselor, Weak Topic Recommender).
+`Next.js 16` `TypeScript` `Supabase/PostgreSQL` `Clerk` `shadcn/ui` `Framer Motion` `Gemini API`
+
+**[LEO — Last-minute Execution Officer](https://leohackathon.vercel.app)** — Multi-agent AI productivity companion built for the **Vibe2Ship Hackathon** (Coding Ninjas × Google for Developers), with Gemini as primary LLM and Groq Llama 3 as fallback.
+`Next.js 14` `Gemini flash-latest` `Groq Llama 3` `Firestore` `Vercel`
+
+**[Aegis Drive](https://aegis-drive.vercel.app)** — Zero-backend, browser-native driver drowsiness detection system running entirely client-side using facial landmark geometry.
+`MediaPipe FaceMesh` `WebAssembly` `EAR/MAR Geometry` `Web Audio API`
+
+---
+
+### 💻 Tech Stack
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Tools & Platforms**
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GaneshSarode&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshSarode&theme=dark&hide_border=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshSarode&theme=dark&hide_border=true" alt="streak stats" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GaneshSarode/GaneshSarode/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> Renders automatically once the GitHub Actions workflow below runs — see setup notes at the bottom.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ganesh-sarode-1bb40136a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/GaneshSarode" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/ganeshX077" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="mailto:ganeshsarode3015@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/ganeshx0456" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=GaneshSarode&icon=0&color=0" alt="visitor count" />
+</p>
