@@ -16,6 +16,14 @@
 - 💬 Ask me about **Next.js, Supabase/Firebase, multi-agent AI systems, or MHT-CET / college admissions data**
 - ⚡ Fun fact: I learn fastest by shipping a live product, not by watching tutorials
 
+<details>
+<summary><b>📚 Currently Learning / Reading</b></summary>
+<br/>
+- 📕 <i>Designing Data-Intensive Applications</i> (System Design)
+- 🧠 Advanced Graph Algorithms & Dynamic Programming (DSA)
+- ☁️ Scaling Next.js architectures with distributed systems
+</details>
+
 ---
 
 ### 🔨 Featured Projects
@@ -66,6 +74,16 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GaneshSarode&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GaneshSarode's GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -77,6 +95,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshSarode&theme=dark&hide_border=true" alt="streak stats" />
 </p>
 
+<p align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</p>
+
 ---
 
 ### 🐍 Contribution Snake
@@ -86,6 +109,14 @@
 </p>
 
 > Renders automatically once the GitHub Actions workflow below runs — see setup notes at the bottom.
+
+---
+
+### 📝 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+*(Stay tuned! Automatically fetching latest content...)*
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
