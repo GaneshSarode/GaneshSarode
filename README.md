@@ -108,7 +108,6 @@
   <img src="https://raw.githubusercontent.com/GaneshSarode/GaneshSarode/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-> Renders automatically once the GitHub Actions workflow below runs — see setup notes at the bottom.
 
 ---
 
