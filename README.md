@@ -111,14 +111,6 @@
 
 ---
 
-### 📝 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-*(Stay tuned! Automatically fetching latest content...)*
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
