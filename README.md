@@ -94,10 +94,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshSarode&theme=dark&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=GaneshSarode&theme=dark&hide_border=true" alt="streak stats" />
 </p>
 
-<p align="center">
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
@@ -113,7 +112,7 @@ No Activity Tracked This Week
 
  Last Updated on 09/07/2026 20:04:00 UTC
 <!--END_SECTION:waka-->
-</p>
+
 
 ---
 
