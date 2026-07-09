@@ -74,6 +74,7 @@
 
 ---
 
+<!-- 
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -83,12 +84,13 @@
 </p>
 
 ---
+-->
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GaneshSarode&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshSarode&theme=dark&hide_border=true&layout=compact" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GaneshSarode&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GaneshSarode&theme=dark&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
