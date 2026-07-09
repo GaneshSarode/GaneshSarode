@@ -94,7 +94,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GaneshSarode&theme=dark&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=GaneshSarode&theme=dark&hide_border=true&v=1" alt="streak stats" />
 </p>
 
 <!--START_SECTION:waka-->
