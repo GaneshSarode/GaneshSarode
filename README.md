@@ -98,10 +98,19 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.24%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 25/07/2026 02:09:43 UTC
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 26/07/2026 02:14:59 UTC
 <!--END_SECTION:waka-->
 
 
